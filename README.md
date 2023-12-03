@@ -33,7 +33,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhadialaraj&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="abdulhadialaraj" /></p>
 
 ***
-
+<h3 align="left">📊 Statistics</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhadialaraj&show_icons=true&locale=en&theme=blueberry" alt="abdulhadialaraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadialaraj&theme=blueberry" alt="abdulhadialaraj" /></p>
