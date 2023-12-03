@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdulhadi Alaraj</h1>
-<h3 align="center">🎓 Aspiring Machine Learning Enthusiast & Data Science Student | Exploring the World of AI and Big Data | Passionate about Transforming Data into Insight</h3> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadialaraj&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhadialaraj" /> </p>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Abdulhadi+Alaraj" alt="Typing SVG" /></a></h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=true&random=false&width=435&lines=Aspiring+Machine+Learning+Enthusiast;Exploring+the+World+of+AI+and+Big+Data" alt="Typing SVG" /></a></h3> 
+<a href="https://www.instagram.com/perseus2843/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/playlist/4Ms1VZCH3t1mRMWXCaHxar?si=fde99606f4ac47ac" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadialaraj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abdulhadialaraj" /> </p>
+
 
 ***
 
@@ -34,5 +37,6 @@
 
 ***
 <h3 align="left">📊 Statistics</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhadialaraj&show_icons=true&locale=en&theme=blueberry" alt="abdulhadialaraj" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadialaraj&theme=blueberry" alt="abdulhadialaraj" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulhadiAlaraj&theme=blueberry" ></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhadialaraj&show_icons=true&locale=en&theme=blueberry" alt="abdulhadialaraj" /></p>
+
