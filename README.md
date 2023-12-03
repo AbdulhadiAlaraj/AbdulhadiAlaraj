@@ -47,3 +47,5 @@
   <p><img src="https://github-readme-stats.vercel.app/api?username=AbdulhadiAlaraj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blueberry" alt="abdulhadialaraj" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhadialaraj&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="abdulhadialaraj" /></p>
 </details>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdulhadiAlaraj&theme=tokyo-night&color=32ae85&line=559ff8&point=27e8a7&area=true)](https://github.com/AbdulhadiAlaraj/github-readme-activity-graph)
