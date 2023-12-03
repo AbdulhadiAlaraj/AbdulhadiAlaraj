@@ -4,7 +4,7 @@
 
 ***
 
-<img align="right" alt="ML" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*RdQGmry_IdLt6kJj.gif">
+<img align="right" alt="ML" width="385" src="https://miro.medium.com/v2/resize:fit:1400/0*RdQGmry_IdLt6kJj.gif">
 
 - 🔭 I’m currently working on [Posture Detection w/ MediaPipe and OpenCV](https://github.com/AbdulhadiAlaraj/Posture-Detection)
 
