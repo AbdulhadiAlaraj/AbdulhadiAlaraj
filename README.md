@@ -8,6 +8,7 @@
 ***
 
 <img align="right" alt="ML" width="385" src="https://miro.medium.com/v2/resize:fit:1400/0*RdQGmry_IdLt6kJj.gif">
+<h3>About Me:</h3>
 
 - 🔭 I’m currently working on [Posture Detection w/ MediaPipe and OpenCV](https://github.com/AbdulhadiAlaraj/Posture-Detection)
 
@@ -33,10 +34,20 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhadialaraj&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="abdulhadialaraj" /></p>
+<details open>
+<summary><h3 align="left">📊 Top Repos:</h3></summary>
+<p align="left">
+  <a href="https://github.com/AbdulhadiAlaraj/Posture-Detection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulhadiAlaraj&repo=Posture-Detection&theme=blueberry&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/AbdulhadiAlaraj/SarcasmViz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulhadiAlaraj&repo=SarcasmViz&theme=blueberry&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
+</p>
+</details>
 
 ***
-<h3 align="left">📊 Statistics</h3>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulhadiAlaraj&theme=blueberry" ></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhadialaraj&show_icons=true&locale=en&theme=blueberry" alt="abdulhadialaraj" /></p>
 
+<details open>
+<summary><h3 align="left">📊 Statistics</h3></summary>
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulhadiAlaraj&theme=blueberry" ></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulhadiAlaraj&theme=blueberry" alt="abdulhadialaraj" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=AbdulhadiAlaraj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blueberry" alt="abdulhadialaraj" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhadialaraj&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="abdulhadialaraj" /></p>
+</details>
