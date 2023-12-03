@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulhadi Alaraj</h1>
 <h3 align="center">🎓 Aspiring Machine Learning Enthusiast & Data Science Student | Exploring the World of AI and Big Data | Passionate about Transforming Data into Insight</h3> 
-<p align="left"> <img src="https://custom-icon-badges.demolab.com/badge/-Views-blue?style=for-the-badge&logo=repo-views&logoColor=white" alt="abdulhadialaraj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadialaraj&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhadialaraj" /> </p>
 
 ***
 
