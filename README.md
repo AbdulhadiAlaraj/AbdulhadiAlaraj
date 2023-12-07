@@ -21,6 +21,7 @@
 
 - 📫 How to reach me **abdulhadiaraj@gmail.com**
 
+<br>
 <details open>
 <summary><h3 align="left">Languages and Tools:</h3></summary>
 <div id="badges" width>
