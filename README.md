@@ -33,7 +33,6 @@
   <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit"/> </a>
   <a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/> </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
-  
   <a href="https://huggingface.co" target="_blank" rel="noreferrer" > <img src="https://tinyurl.com/2p9ft7xf" alt="huggingface"/> </a>
 
 </div>
