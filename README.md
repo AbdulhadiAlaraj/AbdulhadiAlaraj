@@ -4,6 +4,7 @@
 <a href="https://www.kaggle.com/abdulhadiaraj" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
 <a href="https://medium.com/@abdulhadiaraj" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="https://open.spotify.com/playlist/4Ms1VZCH3t1mRMWXCaHxar?si=fde99606f4ac47ac" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="mailto:abdulhadiaraj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadialaraj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abdulhadialaraj" /> </p>
 
 
