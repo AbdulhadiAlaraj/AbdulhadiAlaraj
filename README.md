@@ -20,8 +20,9 @@
 
 - 📫 How to reach me **abdulhadiaraj@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<div id="badges">
+<details open>
+<summary><h3 align="left">Languages and Tools:</h3></summary>
+<div id="badges" width>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/> </a>
   <a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="keras"/> </a>
@@ -32,10 +33,10 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
   <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit"/> </a>
   <a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/> </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>  
   <a href="https://huggingface.co" target="_blank" rel="noreferrer" > <img src="https://tinyurl.com/2p9ft7xf" alt="huggingface"/> </a>
-
 </div>
+</details>
 
 <details open>
 <summary><h3 align="left">📊 Top Repos:</h3></summary>
