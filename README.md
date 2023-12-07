@@ -51,8 +51,8 @@
 
 <details open>
 <summary><h3 align="left">📊 Statistics</h3></summary>
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulhadiAlaraj&theme=blueberry" ></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulhadiAlaraj&theme=blueberry" alt="abdulhadialaraj" /></p>
+  <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulhadiAlaraj&theme=blueberry" ></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulhadiAlaraj&theme=blueberry" alt="abdulhadialaraj" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=AbdulhadiAlaraj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blueberry" alt="abdulhadialaraj" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhadialaraj&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="abdulhadialaraj" /></p>
 </details>
