@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [Posture Detection w/ MediaPipe and OpenCV](https://github.com/AbdulhadiAlaraj/Posture-Detection)
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🧐 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdulhadiAlaraj](https://github.com/AbdulhadiAlaraj)
 
@@ -27,7 +27,7 @@
 
 <br>
 <details open>
-<summary><h3 align="left">Languages and Tools:</h3></summary>
+<summary><h3 align="left">🔧 Languages and Tools:</h3></summary>
 <div id="badges" width>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/> </a>
@@ -48,7 +48,7 @@
 </details>
 
 <details open>
-<summary><h3 align="left">📊 Top Repos:</h3></summary>
+<summary><h3 align="left">🗃️ Top Repos:</h3></summary>
 <p align="left">
   <a href="https://github.com/AbdulhadiAlaraj/Posture-Detection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulhadiAlaraj&repo=Posture-Detection&theme=blueberry&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/AbdulhadiAlaraj/SarcasmViz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulhadiAlaraj&repo=SarcasmViz&theme=blueberry&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
