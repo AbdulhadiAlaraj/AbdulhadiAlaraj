@@ -42,6 +42,12 @@
   <a href="https://huggingface.co" target="_blank" rel="noreferrer" > <img src="https://tinyurl.com/2p9ft7xf" alt="huggingface"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/> </a>
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/> </a>  
+  <a href="https://www.anaconda.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda"/> </a>
+  
+
+
+
 
 </div>
 </details>
