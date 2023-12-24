@@ -59,6 +59,7 @@
   <a href="https://github.com/AbdulhadiAlaraj/SarcasmViz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulhadiAlaraj&repo=SarcasmViz&theme=blueberry&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/YaserHabib/ArabicSarcasmDetection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YaserHabib&repo=ArabicSarcasmDetection&theme=blueberry&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/AbdulhadiAlaraj/CYK-Parser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulhadiAlaraj&repo=CYK-Parser&theme=blueberry&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/AbdulhadiAlaraj/WebScraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulhadiAlaraj&repo=WebScraper&theme=blueberry&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
 </p>
 </details>
 
