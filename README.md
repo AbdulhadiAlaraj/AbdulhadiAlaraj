@@ -44,7 +44,8 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/> </a>
   <a href="https://jupyter.org" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/> </a>  
   <a href="https://www.anaconda.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda"/> </a>
-  
+  <a href="https://https://www.docker.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
+
 
 
 
