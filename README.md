@@ -80,3 +80,10 @@
 </details>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdulhadiAlaraj&theme=tokyo-night&color=32ae85&line=559ff8&point=27e8a7&area=true)](https://github.com/AbdulhadiAlaraj/github-readme-activity-graph)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulhadiAlaraj/AbdulhadiAlaraj/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulhadiAlaraj/AbdulhadiAlaraj/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbdulhadiAlaraj/AbdulhadiAlaraj/output/github-contribution-grid-snake.svg" />
+</picture>
+
