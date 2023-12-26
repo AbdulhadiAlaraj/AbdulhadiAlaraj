@@ -63,7 +63,19 @@
 </details>
 
 ***
+<details open>
+<summary><h3 align="left">🖥️ My Setup:</h3></summary>
+<p align="left">
+  <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Intel%20Core_i5_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel"/> </a>
+  <a href="https://www.nvidia.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="nvidia"/> </a>
+  <a href="https://www.corsair.com/us/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/RAM-Dominator_DDR5_32 GB-FFFFFF?style=for-the-badge&logo=corsair&logoColor=white" alt="coursair"/> </a>
+  <a href="https://www.asus.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/2x_ASUS%20TUF_VG27AQ1A-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="asus"/> </a> 
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="numpy"/> </a></p>
 
+
+</details>
+
+***
 <details open>
 <summary><h3 align="left">📊 Statistics</h3></summary>
   <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulhadiAlaraj&theme=blueberry" ></p>
