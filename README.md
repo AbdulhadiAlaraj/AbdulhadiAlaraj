@@ -47,13 +47,6 @@
   <a href="https://www.docker.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fastapi"/> </a>
 
-  
-
-
-
-
-
-
 </div>
 </details>
 
@@ -81,9 +74,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdulhadiAlaraj&theme=tokyo-night&color=32ae85&line=559ff8&point=27e8a7&area=true)](https://github.com/AbdulhadiAlaraj/github-readme-activity-graph)
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulhadiAlaraj/AbdulhadiAlaraj/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulhadiAlaraj/AbdulhadiAlaraj/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AbdulhadiAlaraj/AbdulhadiAlaraj/output/github-contribution-grid-snake.svg" />
 </picture>
-
+</div>
