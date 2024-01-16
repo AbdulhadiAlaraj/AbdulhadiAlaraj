@@ -47,8 +47,8 @@
   <a href="https://www.docker.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fastapi"/> </a>
   <a href="https://hoppscotch.io/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white" alt="hoppscotch"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>  
-  <a href="https://redis.io" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"/> </a>  
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
   <a href="" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> </a>
   <a href="" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
   <a href="lua.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua"/> </a>
