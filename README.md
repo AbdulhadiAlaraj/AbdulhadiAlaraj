@@ -54,6 +54,8 @@
   <a href="lua.org/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua"/> </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="googlecloud"/> </a>  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="googlecloud"/> </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/> </a>
+
 
 
 
