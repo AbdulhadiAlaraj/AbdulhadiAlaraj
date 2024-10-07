@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/playlist/4Ms1VZCH3t1mRMWXCaHxar?si=fde99606f4ac47ac" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="mailto:abdulhadiaraj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 <a href="https://www.linkedin.com/in/abdulhadi-al-araj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-<a href="https://github.com/AbdulhadiAlaraj/My-Resume/blob/3fdab94a1ce12c59efadedfd44dde04f4a78de1f/Abdulhadi_Alaraj_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/My Resume-maroon?style=for-the-badge&logo=readdotcv&logoColor=white" alt="resume"></a>
+<a href="https://github.com/AbdulhadiAlaraj/My-Resume/blob/be5db3c975e5ec4fd26b78c6bdcfc9ffc98ba3d7/Abdulhadi_Alaraj_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/My Resume-maroon?style=for-the-badge&logo=readdotcv&logoColor=white" alt="resume"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadialaraj&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abdulhadialaraj" /> </p>
 
